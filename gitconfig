@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = js7598@nyu.edu
+	name = Jinghan Shao
